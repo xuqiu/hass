@@ -1,0 +1,13 @@
+# Example services.yaml entry
+
+start_scene:
+  # Description of the service
+  description: 开启格力云控场景
+  # Different fields that your service accepts
+  fields:
+    # Key of the field
+    id:
+      # Description of the field
+      description: 场景id,可查看属性 gree.scene_list
+      # Example value that can be passed for this field
+      example: '{"id":1}'
