@@ -1,7 +1,7 @@
 # @author FlashSoft
 # == 自定义配置========================================
 # 设定拦截词,以竖线分割每个拦截词,被拦截的内容会转发给nodered服务器进行处理
-keywords="晚安|传感器"
+keywords="传感器|拦截成功"
 # 配置nodered的接收地址
 nodered_url="http://yinzhennan.tpddns.cn:1880/miai"
 # 配置从nodered更新拦截词的间隔,单位秒
