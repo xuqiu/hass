@@ -9,6 +9,7 @@ import hashlib
 import requests
 import logging
 import voluptuous as vol
+import cv
 
 _LOGGER = logging.getLogger(__name__)
 
