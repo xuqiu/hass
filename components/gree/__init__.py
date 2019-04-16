@@ -9,7 +9,7 @@ import hashlib
 import requests
 import logging
 import voluptuous as vol
-import cv
+import homeassistant.helpers.config_validation as cv
 
 _LOGGER = logging.getLogger(__name__)
 
